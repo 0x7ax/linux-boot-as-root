@@ -14,7 +14,7 @@ Add *init=/bin/bash* to the end of the kernel loader line
 ![3](https://raw.githubusercontent.com/0x7ax/linux-boot-as-root/main/3.png)
 If the line doesn't contain *rw*, make sure to add it.
 After that, press F10 or whatever key it's being binded to to proceed booting
-## Demonestration
+## Demonstration
 ![4](https://raw.githubusercontent.com/0x7ax/linux-boot-as-root/main/4.png)
 ## Kernel Panic
 It's totally normal for a kernel panic to occur, your progress should be saved.
