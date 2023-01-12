@@ -1,6 +1,6 @@
 # Booting as root from the bootloader - Linux Kernel
 
-I was once locked out of my machine because I didn't install the config file my my lone window manager (*i was being silly*), so I decided to fix things up :)
+I was once locked out of my machine because I didn't install the config file for my lone window manager (*i was being silly*), so I decided to fix things up :)
 
 While in the process, I thought about sharing how to boot as root and have root permissions.
 ## Step 1
